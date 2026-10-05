@@ -1,1 +1,1 @@
-console.log(JSON.stringify({ skill: 'uat-root-version', version: 1 }));
+console.log(JSON.stringify({ skill: 'uat-root-version', version: 2 }));
